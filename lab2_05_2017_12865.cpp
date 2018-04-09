@@ -5,6 +5,7 @@
 #include <GL/glut.h>
 #include <algorithm>
 
+
 using namespace std;
 
 void main() {
